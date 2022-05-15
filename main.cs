@@ -9,7 +9,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-                // This function does division
+        // This function does division
         int firstInteger;
         int secondInteger;
         int remainder;
